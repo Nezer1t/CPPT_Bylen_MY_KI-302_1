@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI302.Bylen.Lab4","l":"CtgCalculator"},{"p":"KI302.Bylen.Lab4","l":"KI_302BylenLab4"}];updateSearchResults();

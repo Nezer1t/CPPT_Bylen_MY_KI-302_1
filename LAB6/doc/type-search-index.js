@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI302.Bylen.Lab6","l":"Book"},{"p":"KI302.Bylen.Lab6","l":"KI_304BylenLab6"},{"p":"KI302.Bylen.Lab6","l":"SingleLinkedList"},{"p":"KI302.Bylen.Lab6","l":"Student"}];updateSearchResults();
